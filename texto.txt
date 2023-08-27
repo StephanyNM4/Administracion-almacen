@@ -1,0 +1,15 @@
+1013,Agua,20.00
+1232,Papel,100.00
+2371,Ace,50.00
+3181,Manzana(unidad),25.00
+1422,Harina,40.00
+8721,Jabon,10.00
+9721,Tortillas,12.00
+2721,Leche,25.00
+8632,Mostaza,43.00
+6935,Pollo entero,100.00
+7241,Gaseosa,22.00
+0389,Dulce,2.00
+4104,Cereal,30.00
+5066,Queso Libra, 60.00
+3045,Mantequilla, 18.00
